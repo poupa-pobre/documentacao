@@ -57,11 +57,11 @@ MVP mobile isolado para validar a leitura de cupom fiscal (QR Code da NFC-e + OC
 - [x] Modelo de dados
 - [x] Fluxo de telas
 - [x] MVP scanner de cupom (documentado)
-- [ ] Validação do MVP scanner
-- [ ] Setup do backend Django + models
-- [ ] Autenticação JWT
-- [ ] Endpoints dos módulos core
-- [ ] App mobile (Fase 1)
+- [x] Setup do backend Django + models (8 módulos)
+- [x] Autenticação JWT
+- [x] Endpoints dos módulos core
+- [x] Scanner de cupom (NFC-e/QR + OCR), importação OFX/CSV, export PDF
+- [x] App mobile (Fase 1) — todas as telas, no ar consumindo a API de produção
 - [ ] App web (Fase 2)
 
 ---
